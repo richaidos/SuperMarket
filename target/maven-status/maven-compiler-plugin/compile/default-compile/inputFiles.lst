@@ -1,0 +1,14 @@
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\models\Roles.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\models\Users.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\models\TransactionHistory.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\implementations\ItemsBeanImpl.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\implementations\RoleBeanImpl.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\implementations\UserBeanImpl.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\interfaces\RoleBean.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\interfaces\TransactionHistoryInterface.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\configuration\AppConfig.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\implementations\TransactionHistoryInterfaceImpl.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\models\Items.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\controllers\HomeController.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\interfaces\ItemsBean.java
+C:\Users\Айдос\Desktop\IT Unisersity\IITU 3 Курс\IITU 5 Semester\Java EE 5\SuperMarket\src\main\java\com\supermarket\dao\interfaces\UserBean.java

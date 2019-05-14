@@ -1,0 +1,56 @@
+.add-cashier-form{
+    visibility: hidden;
+    display: none;
+}
+.add-cashier-form.is-active{
+    visibility: visible;
+    display: block;
+}
+#statusicon{
+    transition: 0.5s ease;
+}
+
+.add-cashier-form-update{
+    visibility: hidden;
+    display: none;
+}
+.add-cashier-form-update.is-active{
+    visibility: visible;
+    display: block;
+}
+
+.edit-item-form{
+    visibility: hidden;
+    /*display: none;*/
+    overflow-x: auto;
+    opacity: 0;
+    transform: translate(-100%,0);
+    transition: 0.5s ease;
+    position: fixed;
+ }
+.edit-item-form.is-active{
+    visibility: visible;
+    display: block;
+    opacity: 100;
+    transform: none;
+    transition: 0.5s ease;
+    position: relative;
+}
+
+.add-item-content{
+    visibility: hidden;
+    /*display: none;*/
+    overflow-x: auto;
+    opacity: 0;
+    transform: translate(-100%,0);
+    transition: 0.5s ease;
+    position: fixed;
+}
+.add-item-content.is-active{
+    visibility: visible;
+    display: block;
+    opacity: 100;
+    transform: none;
+    transition: 0.5s ease;
+    position: relative;
+}
